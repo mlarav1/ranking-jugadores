@@ -1,4 +1,4 @@
-﻿public class Jugador {
+public class Jugador {
     private final String nombre;
     private final int partidasJugadas;
     private final int victorias;

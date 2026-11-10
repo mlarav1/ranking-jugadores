@@ -1,4 +1,4 @@
-﻿public class Contadores {
+public class Contadores {
     private long comparaciones;
     private long intercambios;
     private long llamadasRecursivas;

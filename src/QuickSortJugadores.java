@@ -1,4 +1,4 @@
-﻿public class QuickSortJugadores {
+public class QuickSortJugadores {
     private final Contadores contadores = new Contadores();
 
     public Contadores getContadores() {
